@@ -12,10 +12,11 @@
 </p>
 
 <p align="left">
-  <a href="https://twitter.com/imadi124" target="_blank">
-    <img src="https://img.shields.io/badge/Follow%20Me%20on%20X-0e75b6?style=flat&color=0e75b6&logo=twitter&logoColor=white&labelColor=0e75b6&labelWidth=180" alt="Follow Me on X" style="width: 200px; font-size: 16px;">
+  <a href="https://x.com/iamabhayaditya" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/imabhayaditya?logo=twitter&style=for-the-badge" alt="imabhayaditya Twitter followers" style="max-width: 100%;">
   </a>
 </p>
+
 
 
 
