@@ -7,16 +7,17 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imadi124&label=Profile%20views&color=0e75b6&style=flat" alt="imadi124" /> </p>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=imadi124&label=Profile%20views&color=0e75b6&style=flat" alt="imadi124" />
 </p>
 
 <p align="left">
   <a href="https://twitter.com/imadi124" target="_blank">
-    <img src="https://img.shields.io/badge/Follow%20Me%20on%20X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Follow Me on X">
+    <img src="https://img.shields.io/badge/Follow%20Me%20on%20X-0e75b6?style=flat&color=0e75b6&logo=twitter&logoColor=white&labelColor=0e75b6&labelWidth=180" alt="Follow Me on X" style="width: 200px; font-size: 16px;">
   </a>
 </p>
+
+
 
 
 - 🌱 I’m currently learning **MERN stack Development**
