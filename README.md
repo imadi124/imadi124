@@ -30,7 +30,7 @@
 - 🌱 I’m currently learning **DSA,MERN development and WEB 3.0**
 - 💻 **5⭐** on **HackerRank** in **SQL** and **2⭐** in **Python**
 - 📫 Feel free to contact me : **abhayaditya150@gmail.com**
-- ⚡**Other than coding I play guitar,read books and learn new things**
+- ⚡**Other than coding I play guitar,read books and Sketch**
 
 ## 📈  &nbsp;Technical Skills and Expertise
 **Programming Languages:**
