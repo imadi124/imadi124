@@ -35,11 +35,15 @@
 ## 📈  &nbsp;Technical Skills and Expertise
 **Programming Languages:**
 
-[![My Skills](https://skillicons.dev/icons?i=python,c,java,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,java,cpp,js)](https://skillicons.dev)
 
 **Front-end Frameworks:**
 
-[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,)](https://skillicons.dev)
+
+**Back-end Frameworks:**
+
+[![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
 
 **Databases:**
 
@@ -57,7 +61,7 @@
 
 **Development Tools:**
 
-[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,idea,eclipse)](https://skillicons.dev)
 
 <p>
   
