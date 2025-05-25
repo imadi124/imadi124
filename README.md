@@ -12,8 +12,8 @@
 </p>
 
 <p align="left">
-  <a href="https://x.com/iamabhayaditya" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/imabhayaditya?logo=twitter&style=for-the-badge" alt="imabhayaditya Twitter followers" style="max-width: 100%;">
+  <a href="https://www.linkedin.com/in/abhayaditya/" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/abhayaditya?logo=twitter&style=for-the-badge" alt="abhayaditya Twitter followers" style="max-width: 100%;">
   </a>
 </p>
 
