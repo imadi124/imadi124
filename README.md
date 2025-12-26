@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Abhay Aditya</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring+Full-Stack+Developer;UI/UX+Developer;Learning+Web+3.0;Blockchain+Technology;+++++;&center=true&width=600" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring+Data+Analyst;Tech+Content+Writer;Learning+AI/ML;+++++;&center=true&width=600" alt="Typing SVG">
 </p>
 
 
@@ -13,7 +13,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/abhayaditya/" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/abhayaditya?logo=twitter&style=for-the-badge" alt="abhayaditya Twitter followers" style="max-width: 100%;">
+    <img src="https://img.shields.io/twitter/follow/abhayaditya?logo=twitter&style=for-the-badge" alt="abhayaditya LinkedIn followers" style="max-width: 100%;">
   </a>
 </p>
 
@@ -26,42 +26,33 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 ## 👨‍💻  &nbsp;About Me 
-- 📈 I'm **Multilingual** coder
-- 🌱 I’m currently learning **DSA,MERN development and WEB 3.0**
-- 💻 **5⭐** on **HackerRank** in **SQL** and **2⭐** in **Python**
+- 📂 Portfolio : https://abhayaditya.framer.ai/
+- 📈 I'm **Data Analyst** and **Machine Learning Enthusiast**
+- 🌱 Currently deepening my skills in **DSA, NLP, Generative-AI & Predictive Modelling**
+- Strong foundation in **Python** for Data Analysis (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
+- 💻 **5⭐** on **HackerRank** in **SQL** and **Python**
 - 📫 Feel free to contact me : **abhayaditya150@gmail.com**
-- ⚡**Other than coding I play guitar,read books and Sketch**
+- ⚡**Other than coding I Write Articles, publish them & read non-fiction books**
 
-## 📈  &nbsp;Technical Skills and Expertise
-**Programming Languages:**
+## 📈 &nbsp;Technical Skills and Expertise
 
-[![My Skills](https://skillicons.dev/icons?i=python,c,java,cpp,js)](https://skillicons.dev)
+**Core Programming & Libraries:**  
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,java,c,js,html,css)](https://skillicons.dev)
 
-**Front-end Frameworks:**
+**Machine Learning & AI Frameworks:**  
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,flask)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,)](https://skillicons.dev)
+**Web Development & UI Stack:**  
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,nextjs,figma,bootstrap,html,css)](https://skillicons.dev)
 
-**Back-end Frameworks:**
+**Databases:**  
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
+**Cloud & Deployment Tools:**  
+[![My Skills](https://skillicons.dev/icons?i=aws,vercel)](https://skillicons.dev)
 
-**Databases:**
-
-[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
-
-
-**Version Control & Collaboration:**
-
-[![My Skills](https://skillicons.dev/icons?i=git,github,notion,replit)](https://skillicons.dev)
-
-**Design & Prototyping:**
-
-[![My Skills](https://skillicons.dev/icons?i=figma,canva)](https://skillicons.dev)
-
-
-**Development Tools:**
-
-[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,idea,eclipse)](https://skillicons.dev)
+**Development & Version Control:**  
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,eclipse,pycharm,postman,replit,anaconda,git,github)](https://skillicons.dev)
 
 <p>
   
